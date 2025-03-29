@@ -27,7 +27,7 @@ title: Awards
 - First Prize in the National College Mathematics Competition, 2023
 - Third Prize in the National College Physics Competition, 2023
 - First Prize in the Beijing College Mathematics Competition, 2023
-- Honorable Mentioned in the China and Foreign Countries Communication Cup National English Translation Contest for College Students, 2024
+- Honorable Mentioned in The Interdisciplinary Contest in Modeling (ICM), 2024
 - ...
 
 <!-- - Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
