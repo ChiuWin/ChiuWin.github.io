@@ -6,7 +6,16 @@ title: Blogs
 
 ## Blogs
 
+### 往事
+- 葵城中学男子100米、50米校运会最高记录保持者
+- 22届新会一中毕业，高考物理满分
+- 吉他手、流行乐
+
+
+
+
 ### Comming soon
+
 
 <!-- ### 2024
 
@@ -36,13 +45,13 @@ title: Blogs
 - [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
 - [本科博客，笔记，回忆录](https://mieclance.club/) -->
 
-<br>
+<!-- <br>
 
-## Leave a Message 欢迎留言
+## Leave a Message
 
-<br>
+<br> -->
 
-{% include disqus.html %} 
+<!-- {% include disqus.html %}  -->
 <!-- 
 <br>
 
