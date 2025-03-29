@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="[weiyan.jpg](https://github.com/ChiuWin/ChiuWin.github.io/blob/main/weiyan.jpg)" class="floatpic">
+<img src="weiyan.jpg" class="floatpic">
 
 Here is **Weiyan Zhao**.<br>
 
