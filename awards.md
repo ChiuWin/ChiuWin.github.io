@@ -9,7 +9,7 @@ title: Awards
 ## Scholarships
 
 - National Scholarship for Undergraduates, 2022
-- First Prize Scholarship for Outstanding Undergraduates $\times$ 4
+- First Prize Scholarship for Outstanding Undergraduates × 4
 - Xiaomi Special Scholarship, Academic Year 2024
 - ...
 
