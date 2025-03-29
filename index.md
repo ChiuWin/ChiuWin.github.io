@@ -6,7 +6,7 @@ layout: page
 
 <img src="[weiyan.jpg](https://github.com/ChiuWin/ChiuWin.github.io/blob/main/weiyan.jpg)" class="floatpic">
 
-Here is **Weiyanzhao**.<br>
+Here is **Weiyan Zhao**.<br>
 
 I am an undergraduate student in the School of Automation at Beijing Institute of Technology. Currently, I am majoring in Control Science and Engineering.<br>
 
