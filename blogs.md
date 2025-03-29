@@ -43,7 +43,7 @@ title: Blogs
 <br>
 
 {% include disqus.html %} 
-
+<!-- 
 <br>
 
 ## Web Star History 点赞记录
@@ -55,4 +55,4 @@ title: Blogs
 
 My WeChat account - lancecai2002
 
-<br>
+<br> -->
