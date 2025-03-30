@@ -27,6 +27,13 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ---
 
+## Languages
+- Chinese
+- Cantonese
+- English
+- Hakka
+
+
 ## News and Updates
 
 This Hml page is under construction. Stay tuned for updates!
