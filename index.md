@@ -12,7 +12,7 @@ I am an undergraduate student in the School of Automation at Beijing Institute o
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - zhaowy [at] bit.edu.cn
 
-**<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**
+<!-- **<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>** -->
 
 ---
 
