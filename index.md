@@ -8,7 +8,7 @@ layout: page
 
 Here is **Weiyan Zhao**.<br>
 
-I am an undergraduate student in the School of Automation at Beijing Institute of Technology, majoring in Control Science and Engineering. Driven by my passion for artificial intelligence and Control Science, I chose perception and navigation as my research field. My academic journey has focused on integrating SLAM and DRL technologies, aiming to tackle practicial challenges in the unmanned aerial vehicle domain.<br>
+I am an undergraduate student in the School of Automation at Beijing Institute of Technology, majoring in Control Science and Engineering. Driven by my passion for artificial intelligence and Control Science, I chose perception and navigation as my research direction. My academic journey has focused on integrating SLAM and DRL technologies, aiming to tackle practicial challenges in the unmanned aerial vehicle domain.<br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - zhaowy [at] bit.edu.cn
 
