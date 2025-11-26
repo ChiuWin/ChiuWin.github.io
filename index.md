@@ -8,7 +8,7 @@ layout: page
 
 Here is **Weiyan Zhao**.<br>
 
-I am an undergraduate student in the School of Automation at Beijing Institute of Technology, majoring in Control Science and Engineering. Driven by my passion for mathematics, physics, and information science, I chose this field to bridge theoretical knowledge with practical applications. My academic journey has focused on using mathematical modeling and information technology to control physical systems, aiming to address real-world challenges in engineering and society.<br>
+I am an undergraduate student in the School of Automation at Beijing Institute of Technology, majoring in Control Science and Engineering. Driven by my passion for artificial intelligence and Control Science, I chose perception and navigation as my research field. My academic journey has focused on integrating SLAM and DRL technologies, aiming to tackle practicial challenges in the unmanned aerial vehicle domain.<br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - zhaowy [at] bit.edu.cn
 
@@ -20,7 +20,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 <!-- - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything) -->
 - Intelligent Control
-- Embodied Intelligence
+- Embodied Navigation
 - Artificial Intelligence
 
 <!-- My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the Machine Learning and its applications in Industrial IoT. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society. -->
